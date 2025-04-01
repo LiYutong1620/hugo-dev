@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>李宇彤-Yutong</title>
+        <link>https://LiYutong1620.github.io/hugo-dev/</link>
+        <description>Recent content on 李宇彤-Yutong</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>李宇彤</copyright><atom:link href="https://LiYutong1620.github.io/hugo-dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我的作品</title>
+        <link>https://LiYutong1620.github.io/hugo-dev/p/%E6%88%91%E7%9A%84%E4%BD%9C%E5%93%81/</link>
+        <pubDate>Tue, 01 Apr 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://LiYutong1620.github.io/hugo-dev/p/%E6%88%91%E7%9A%84%E4%BD%9C%E5%93%81/</guid>
+        <description>&lt;h3 id=&#34;-本地网页作品&#34;&gt;&lt;strong&gt;📌 本地网页作品&lt;/strong&gt;
+&lt;/h3&gt;&lt;h4 id=&#34;1-个人博客系统&#34;&gt;1. 个人博客系统
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;技术栈&lt;/strong&gt;: Hugo + GitHub Pages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;描述&lt;/strong&gt;: 使用Hugo静态生成器搭建的个性化博客。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;在线预览&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://liyutong1620.github.io/hugo-dev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;点击访问&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;源码&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://github.com/liyutong1620/hugo-dev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub仓库&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img src=&#34;https://LiYutong1620.github.io/hugo-dev/images/blog-screenshot.jpg&#34;
+    alt=&#34;博客截图&#34; width=&#34;800&#34;&gt;
+&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;-其他平台作品&#34;&gt;&lt;strong&gt;🌐 其他平台作品&lt;/strong&gt;
+&lt;/h3&gt;&lt;h4 id=&#34;2-开源贡献---xxx项目&#34;&gt;2. 开源贡献 - XXX项目
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;平台&lt;/strong&gt;: GitHub/Gitee&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;描述&lt;/strong&gt;: 为开源项目贡献了XX功能。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;链接&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://github.com/xxx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;项目地址&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img src=&#34;https://LiYutong1620.github.io/hugo-dev/images/opensource-contrib.jpg&#34;
+    alt=&#34;开源贡献截图&#34;&gt;
+&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;-大文件作品避免github限制&#34;&gt;&lt;strong&gt;📦 大文件作品（避免GitHub限制）&lt;/strong&gt;
+&lt;/h3&gt;&lt;h4 id=&#34;3-3d建模作品&#34;&gt;3. 3D建模作品
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;解决方案&lt;/strong&gt;: 使用云存储分享大文件
+&lt;ul&gt;
+&lt;li&gt;上传至 &lt;a class=&#34;link&#34; href=&#34;https://oss.console.aliyun.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;阿里云OSS&lt;/a&gt; 或 &lt;a class=&#34;link&#34; href=&#34;https://console.cloud.tencent.com/cos&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;腾讯云COS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;生成分享链接嵌入网页：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;href&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;https://your-oss-link.com/model.zip&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;button&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;下载3D模型 (25MB)&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>学院概况</title>
+        <link>https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/</link>
+        <pubDate>Tue, 01 Apr 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/</guid>
+        <description>&lt;img src="https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/college-profile-cover.png" alt="Featured image of post 学院概况" /&gt;&lt;h3 id=&#34;学院简介&#34;&gt;&lt;strong&gt;学院简介&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;贵州大学计算机科学与技术学院（贵州保密学院、省级示范性软件学院），位于贵州省贵阳市花溪区贵州大学东校区。&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding: 30% 45%; margin: 1rem 0;&#34;&gt;
+    &lt;iframe 
+        style=&#34;position: absolute; width: 100%; height: 100%; left: 0; top: 0;&#34; 
+        src=&#34;//player.bilibili.com/player.html?bvid=BV1fKZ8YYEBP&amp;page=1&#34; 
+        scrolling=&#34;no&#34; 
+        frameborder=&#34;no&#34; 
+        allowfullscreen=&#34;true&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;  
+&lt;p&gt;（宣传视频）&lt;/p&gt;
+&lt;p&gt;计算机科学与技术学院（贵州保密学院、软件学院）自1972年创办计算机软件本科专业开始，至今已有50多年的发展历史。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/college1.jpg&#34;
+	width=&#34;800&#34;
+	height=&#34;600&#34;
+	srcset=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/college1_hu_26777eae8212a639.jpg 480w, https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/college1_hu_eb4635e2862efe6c.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;学院外景&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;学院现有软件工程一级学科博士点和计算机科学与技术一级学科硕士点等2个一级学科，其中，软件工程一级学科是教育部规定的以软件工程一级学科博士点引领大数据科学与技术学科群建设国内特色一流学科的主导学科，也是省教育厅规定的大数据科学与技术学科群世界一流建设学科Ⅰ类学科的主导学科。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/college2.jpg&#34;
+	width=&#34;1280&#34;
+	height=&#34;573&#34;
+	srcset=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/college2_hu_5a31698b4fa143f1.jpg 480w, https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/college2_hu_6af126973f61900.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;学院外面的花&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;223&#34;
+		data-flex-basis=&#34;536px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;教学与科研&#34;&gt;&lt;strong&gt;教学与科研&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;学院现有系部：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;计算机科学系&lt;/li&gt;
+&lt;li&gt;网络空间安全系&lt;/li&gt;
+&lt;li&gt;软件工程教学部&lt;/li&gt;
+&lt;li&gt;计算中心&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;拥有一支综合素质好、学术水平高、实践经验丰富、具有开拓创新精神的教学科研队伍。&lt;/p&gt;
+&lt;h3 id=&#34;科研平台&#34;&gt;&lt;strong&gt;科研平台&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;学院拥有一流的教学、科研、实验环境，包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;贵州省公共大数据重点实验室&lt;/li&gt;
+&lt;li&gt;贵州省智能医学影像分析与精准诊断重点实验室&lt;/li&gt;
+&lt;li&gt;贵州省软件工程与信息安全特色重点实验室&lt;/li&gt;
+&lt;li&gt;贵州省先进计算与医疗信息服务工程实验室&lt;/li&gt;
+&lt;li&gt;贵州省智慧医疗大数据创新中心&lt;/li&gt;
+&lt;li&gt;……&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/lab.jpg&#34;
+	width=&#34;1268&#34;
+	height=&#34;737&#34;
+	srcset=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/lab_hu_2b415beec12c042c.jpg 480w, https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/lab_hu_c0d968fc3c1b24b7.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;实验室照片&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;172&#34;
+		data-flex-basis=&#34;412px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些平台有效地支撑了学院的科学研究与产学研服务。&lt;/p&gt;
+&lt;h3 id=&#34;学术成果&#34;&gt;学术成果
+&lt;/h3&gt;&lt;p&gt;学院秉承“重视基础理论研究，注重理论与实践相结合”的传统。在艰苦的科研条件下，依靠自身的努力，积极参与国内外学术交流，先后取得了一批高水平的科学研究成果。近年来，学院科研人员累计在中文核心以上期刊发表了几百篇学术论文，其中在CVPR、《Artificial Intelligence》、《AI Communications》、《IEEE Transactions on Information Forensics and Security》、《Information and Computation》、《Knowledge-Based Systems》、《Neural Networks》等国际权威期刊或顶级会议以及《Science in China》、《J. of Comput. Sci. and Technol.》、《计算机学报》、《软件学报》、《电子学报》、《计算机研究与发展》、《通信学报》等国内权威期刊相继发表众多学术论文。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/achievement.png&#34;
+	width=&#34;880&#34;
+	height=&#34;1259&#34;
+	srcset=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/achievement_hu_92117961f80c3aad.png 480w, https://LiYutong1620.github.io/hugo-dev/p/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/achievement_hu_75a1d7c7e1040d08.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;部分科研成果展示&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;69&#34;
+		data-flex-basis=&#34;167px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;部分代表作链接：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0306457323001589&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《Criminal Action Graph》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kns.cnki.net/kcms2/article/abstract?v=0iq8nzQYh5RlGmbjrbkcqaKC2P8nx5zgKBWjlH_xxsEGNzVAlSlhxNNH25MmvUnUugftFjUzP6gjw6lOPCUTiggSYQgY_X7qLeh54Wi0UYx90EQo8uNxBJK_4vMoLqimFVL33ty3KxcVg7q11oU3uNhTQ4avS2TtpDF-NhVjZ4M=&amp;amp;uniplatform=NZKPT&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《基于审判逻辑步骤的裁判文书摘要生成方法》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kns.cnki.net/kcms2/article/abstract?v=0iq8nzQYh5Rx-dRUI-fm-FT-qtWsdEk9MFgEm6F0X0WQ3OPG91oxhhsRxwKV_AE8NLY3q9prZgZF_X01fPpdlcqEol-8CGMH1KnQ2jeyN6vOPeUoLcg54LSPQVT9FpWH75EoLx3l4u7WHa041WhkDaoajGRqX8N9dNiHVl6JmnY=&amp;amp;uniplatform=NZKPT&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《基于机器阅读理解的案件要素识别方法》&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>个人简介</title>
+        <link>https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</link>
+        <pubDate>Sun, 30 Mar 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</guid>
+        <description>&lt;img src="https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/personal-intro-cover.jpg" alt="Featured image of post 个人简介" /&gt;&lt;h3 id=&#34;基本信息&#34;&gt;&lt;strong&gt;基本信息&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;姓名&lt;/strong&gt;：李宇彤&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;年龄&lt;/strong&gt;：20岁&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;学院&lt;/strong&gt;：贵州大学计算机科学与技术学院&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;班级&lt;/strong&gt;：软工2303班&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;家乡&lt;/strong&gt;：贵州省毕节市&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/bijie.jpg&#34;
+	width=&#34;1920&#34;
+	height=&#34;859&#34;
+	srcset=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/bijie_hu_a17bb87daa6a2831.jpg 480w, https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/bijie_hu_7b0329c9c76cf40.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;毕节生活照&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;223&#34;
+		data-flex-basis=&#34;536px&#34;
+	
+&gt;&lt;br&gt;
+&lt;em&gt;（家乡毕节的天空）&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;性格特点&#34;&gt;&lt;strong&gt;性格特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;我自认为是一个性格沉稳的人，虽然朋友们经常评价我“像人机”。&lt;/p&gt;
+&lt;p&gt;我是一个有些拖延的人，回顾过往短短二十年的人生，我赶ddl的身影一直存在，无论是上学上课、学习中的作业和报告，还是赶车、约朋友出去玩……&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/ddl.jpg&#34;
+	width=&#34;1280&#34;
+	height=&#34;573&#34;
+	srcset=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/ddl_hu_adcd820aaf9daf29.jpg 480w, https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/ddl_hu_eed35f9a23f3a9bb.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;上课照片&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;223&#34;
+		data-flex-basis=&#34;536px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;但我仍然是一个有担当的人，因为大多数时候我都会把手头的事情完成。&lt;/p&gt;
+&lt;h3 id=&#34;朋友与家人&#34;&gt;&lt;strong&gt;朋友与家人&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;我有一些好朋友，我们共同经历了人生中许多美好时光&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/friends1.jpg&#34;
+	width=&#34;1280&#34;
+	height=&#34;573&#34;
+	srcset=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/friends1_hu_a14e7108b9ad43ab.jpg 480w, https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/friends1_hu_6fc88ddb1a6d5012.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;19岁生日蛋糕&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;223&#34;
+		data-flex-basis=&#34;536px&#34;
+	
+&gt;&lt;br&gt;
+&lt;img src=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/friends2.jpg&#34;
+	width=&#34;1280&#34;
+	height=&#34;571&#34;
+	srcset=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/friends2_hu_a926a6d449b741dd.jpg 480w, https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/friends2_hu_c38cfd1bf282a7.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;与友小酌&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;224&#34;
+		data-flex-basis=&#34;538px&#34;
+	
+&gt;&lt;br&gt;
+&lt;img src=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/friends3.jpg&#34;
+	width=&#34;1280&#34;
+	height=&#34;573&#34;
+	srcset=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/friends3_hu_7afbbe263d63bc1f.jpg 480w, https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/friends3_hu_3b84e2f81c4a3e36.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;大家一起拔河&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;223&#34;
+		data-flex-basis=&#34;536px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;（♡´∀`♡）还有我亲爱的妹妹，她比我小一岁多，今年即将高考，在此祝福她，愿结果如烟花一般灿烂盛大&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/sister.jpg&#34;
+	width=&#34;1280&#34;
+	height=&#34;960&#34;
+	srcset=&#34;https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/sister_hu_d191223d466a6b6f.jpg 480w, https://LiYutong1620.github.io/hugo-dev/p/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/sister_hu_5b8d000836f5f63f.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;妹妹照片&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>https://LiYutong1620.github.io/hugo-dev/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://LiYutong1620.github.io/hugo-dev/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://LiYutong1620.github.io/hugo-dev/archives/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://LiYutong1620.github.io/hugo-dev/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://LiYutong1620.github.io/hugo-dev/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://LiYutong1620.github.io/hugo-dev/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>链接</title>
+        <link>https://LiYutong1620.github.io/hugo-dev/%E9%93%BE%E6%8E%A5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://LiYutong1620.github.io/hugo-dev/%E9%93%BE%E6%8E%A5/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://LiYutong1620.github.io/hugo-dev/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://LiYutong1620.github.io/hugo-dev/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
